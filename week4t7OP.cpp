@@ -23,7 +23,7 @@ main()
     }
         if (x == 21)
         {
-            while (x <= 21 && x != 6) /**/
+            while (x <= 21 && x != 6)
             {
                 playermove(x, y);
                 x = x - 1;
